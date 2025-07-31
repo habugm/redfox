@@ -6,7 +6,7 @@ function Home() {
   {/* Hero Section */}
   <section id="hero" className="hero section dark-background">
     <div className="hero-background">
-      <img src="assets/img/bg/bg-14.webp" alt data-aos-duration={1000} />
+      <img src="assets/img/bg/bg-141.jpg" alt data-aos-duration={1000} />
       <div className="overlay" />
     </div>
     <div className="container">
