@@ -33,7 +33,7 @@ function Header() {
           
           
           {/* Megamenu 2 */}
-          <li className="megamenu-2"><a href="#"><span>Services</span> <i className="bi bi-chevron-down toggle-dropdown" /></a>
+          <li className="megamenu-2"><a href="#services"><span>Services</span> <i className="bi bi-chevron-down toggle-dropdown" /></a>
             {/* Mobile Megamenu */}
             <ul className="mobile-megamenu">
               <li><a href="#">Product Analytics</a></li>
@@ -380,7 +380,7 @@ function Header() {
               </div>
             </div>{/* End Desktop Megamenu */}
           </li>{/* End Megamenu 2 */}
-          <li><a href="#services">Projects</a></li>
+          <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
         <i className="mobile-nav-toggle d-xl-none bi bi-list" />

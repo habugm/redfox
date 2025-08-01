@@ -6,7 +6,7 @@ function Home() {
   {/* Hero Section */}
   <section id="hero" className="hero section dark-background">
     <div className="hero-background">
-      <img src="assets/img/bg/da.jpg" alt data-aos-duration={1000} />
+      <img src="assets/img/bg/bg-141.jpg" alt  />
       <div className="overlay" />
     </div>
     <div className="container">
@@ -297,6 +297,86 @@ We connect your future—seamlessly and smartly.</p>
       </div>
     </div>
   </section>
+  <section id="projects" className="featured-services section light-background py-5">
+  {/* Section Title */}
+  <div className="container section-title text-center mb-5">
+    <h2>Projects</h2>
+    <p>Here is a List of our Projects</p>
+  </div>
+
+  <div className="container">
+    {/* Top Row: Text & Image */}
+
+
+    {/* Bottom Grid Services */}
+    <div className="row gy-4">
+      {[
+        {
+          icon: "bi-cookie",
+          title: "Addis Ababa Abattoir",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "01"
+        },
+        {
+          icon: "bi-bricks",
+          title: "Yotek Construction PLC",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "02"
+        },
+        {
+          icon: "bi-tools",
+          title: "Mesanu Metals Manufacturing PLC",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "03"
+        },
+        {
+          icon: "bi-water",
+          title: "Hawassa Water Supply",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "04"
+        },
+        {
+          icon: "bi-water",
+          title: "Mekelle Water Supply",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "05"
+        },
+        {
+          icon: "bi-water",
+          title: "Adwa Water Supply",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "06"
+        },
+        {
+          icon: "bi-people-fill",
+          title: "KA2 Import and Export",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "07"
+        },
+        {
+          icon: "bi-mortarboard-fill",
+          title: "Poly Institute of Technology",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          number: "08"
+        }
+      ].map((service, idx) => (
+        <div key={idx} className="col-sm-6 col-lg-3">
+          <div className="service-card p-4 border rounded h-100">
+            <div className="icon-box mb-3 fs-3 text-primary">
+              <i className={`bi ${service.icon}`}></i>
+            </div>
+            <div className="content">
+              <h5><a href="#" className="text-dark text-decoration-none">{service.title}</a></h5>
+              <p className="mb-2">{service.text}</p>
+              <div className="service-number text-muted fw-bold">{service.number}</div>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
   <section id="contact" className="contact section">
     {/* Section Title */}
     <div className="container section-title">
@@ -385,6 +465,8 @@ We connect your future—seamlessly and smartly.</p>
       </div>
     </div>
   </section>{/* /Contact Section */}
+
+
 </main>
 
     </>
