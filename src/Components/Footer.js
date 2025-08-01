@@ -7,7 +7,8 @@ function Footer() {
     <div className="row gy-4">
       <div className="col-lg-5 col-md-12 footer-about">
         <a href="index.html" className="logo d-flex align-items-center">
-          <span className="sitename">RedFox</span>
+          {/* <span className="sitename">RedFox</span> */}
+          <img src="assets/img/misc/a.png" className="sitename" />
         </a>
         <p>Empowering businesses with innovative ICT solutions—from development to support—for a smarter, connected future.</p>
         <div className="social-links d-flex mt-4">
