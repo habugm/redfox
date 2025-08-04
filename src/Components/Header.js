@@ -106,6 +106,12 @@ function Header() {
                       <span>ERP Consultancy</span>
                     </button>
                   </li>
+                  <li className="nav-item" role="presentation">
+                    <button className="nav-link" id="2190-tab-4-tab" data-bs-toggle="tab" data-bs-target="#2190-tab-4" type="button" role="tab" aria-controls="2190-tab-4" aria-selected="false">
+                      <img src="assets/img/misc/a.png" alt="Enterprise Solutions" className="banner-image" />
+                      
+                    </button>
+                  </li>
                 </ul>
               </div>
               <div className="tab-content">
@@ -118,21 +124,42 @@ function Header() {
                         <a href="#" className="product-link">
                           <i className="bi bi-person-gear" />
                           <div>
-                            <span>HRM</span>
+                            <span>(HRMS) Human Resource Management System</span>
                             <small>Manage customer relationships effectively</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-cash-coin" />
                           <div>
-                            <span>Finance Management</span>
+                            <span>(IFMS) Integrated Finance Management System</span>
                             <small>Integrate all business processes</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-grid-3x3-gap-fill" />
                           <div>
-                            <span>Property Management</span>
+                            <span>(AIMS) Asset and Inventory Management System</span>
+                            <small>Streamline repetitive tasks</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-grid-3x3-gap-fill" />
+                          <div>
+                            <span>(PBMS) Plan and Budget Management System</span>
+                            <small>Streamline repetitive tasks</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-grid-3x3-gap-fill" />
+                          <div>
+                            <span>(PSMS) Purchase and Supplies Management System</span>
+                            <small>Streamline repetitive tasks</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-grid-3x3-gap-fill" />
+                          <div>
+                            <span>(MSMS) Marketing and Sales Management System</span>
                             <small>Streamline repetitive tasks</small>
                           </div>
                         </a>
@@ -144,37 +171,50 @@ function Header() {
                         <a href="#" className="product-link">
                           <i className="bi bi-file-earmark-text" />
                           <div>
-                            <span>Budget Management</span>
+                            <span>(CPMS) Collaboration Project Management System</span>
                             <small>Organize and secure documents</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-openai" />
                           <div>
-                            <span>Supply Chain Management</span>
+                            <span>(IPMS) Integrated Production Management System</span>
                             <small>Make data-driven decisions</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-people" />
                           <div>
-                            <span>Customer Relationship Management (CRM)</span>
+                            <span>(CCMS) Customer Chain Management System </span>
+                            <small>Connect all your systems</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-people" />
+                          <div>
+                            <span>(PEMS) Plant and Equipment Management System</span>
+                            <small>Connect all your systems</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-people" />
+                          <div>
+                            <span>(PCMS) Planning and Content Management System</span>
+                            <small>Connect all your systems</small>
+                          </div>
+                        </a>
+                        <a href="#" className="product-link">
+                          <i className="bi bi-people" />
+                          <div>
+                            <span>(SDMS) Slaughtering and Distribution Management System</span>
                             <small>Connect all your systems</small>
                           </div>
                         </a>
                       </div>
                     </div>
+                    
                   </div>
-                  <div className="featured-banner">
-                    <div className="banner-content">
-                      <img src="assets/img/misc/a.png" alt="Enterprise Solutions" className="banner-image" />
-                      <div className="banner-info">
-                        <h5>REDFOX Dynamics</h5>
-                        <p>Comprehensive business management solution with advanced features and 24/7 support.</p>
-                        <a href="#" className="cta-btn">Get Started <i className="bi bi-arrow-right" /></a>
-                      </div>
-                    </div>
-                  </div>
+                  
                 </div>
                 {/* Development Tools Tab */}
                 <div className="tab-pane fade" id="2190-tab-2" role="tabpanel" aria-labelledby="2190-tab-2-tab">
