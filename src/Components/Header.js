@@ -6,7 +6,7 @@ function Header() {
   <div className="topbar d-flex align-items-center dark-background">
     <div className="container d-flex justify-content-center justify-content-md-between">
       <div className="contact-info d-flex align-items-center">
-        <i className="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">maspro2012@gmail.com</a></i>
+        <i className="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">redfoxdynamics@gmail.com</a></i>
         <i className="bi bi-phone d-flex align-items-center ms-4"><span>+251 914 11 36 59</span></i>
       </div>
       <div className="social-links d-none d-md-flex align-items-center">

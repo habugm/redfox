@@ -44,7 +44,7 @@ function Footer() {
         <p>Addis Ababa</p>
         <p>Ethiopia</p>
         <p className="mt-4"><strong>Phone:</strong> <span>+251 914 11 36 59</span></p>
-        <p><strong>Email:</strong> <span>maspro2012@gmail.com</span></p>
+        <p><strong>Email:</strong> <span>redfoxdynamics@gmail.com</span></p>
       </div>
     </div>
   </div>

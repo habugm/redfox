@@ -72,10 +72,11 @@ We connect your future—seamlessly and smartly.</p>
         <div className="col-lg-6">
           <div className="content">
             <h2>Transforming Ideas Into Reality Since 2010</h2>
-            <p className="lead">We are a passionate team of innovators dedicated to creating exceptional digital experiences that drive meaningful results for businesses worldwide.</p>
-            <p>Our journey began with a simple vision: to bridge the gap between cutting-edge technology and human-centered design. Today, we've grown into a trusted partner for companies seeking to transform their digital presence and accelerate their growth.</p>
-            <p>Through collaborative partnerships and innovative solutions, we've helped tens of organizations achieve their goals while building lasting relationships founded on trust, transparency, and exceptional results.</p>
-            <div className="stats-container">
+            <p>REDFOX ICT Solutions PLC (RICTSP) is the leading, but yet the youngest, private, center of research and development business firm with a great vision of being a world-class information and information systems provider at a maximum security against any peril.</p>
+              <p>RICTSP, in order to tie itself up with the world-class providers, it has to give priority to developing highly diligent and skilled professionals in the cutting-edge technology as well as serving the governmental, nongovernmental organizations and the society in general using the up- to-date and secure information communication technology and make the country competitive with the ever-dynamic world.</p>
+                <p>As a result, since its establishment in 2008GC at Mekelle ICT business incubation center, RICTSP has shown many achievements. It has been providing its products and services to different bodies in the region and many customers in the country.</p>
+
+                  <div className="stats-container">
               <div className="row">
                 <div className="col-md-4">
                   <div className="stat-item">
@@ -330,14 +331,14 @@ We connect your future—seamlessly and smartly.</p>
           number: "03"
         },
         {
-          icon: "bi-water",
-          title: "Hawassa Water Supply",
+          icon: "bi-bank",
+          title: "Relief Society of Tigray",
           text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           number: "04"
         },
         {
-          icon: "bi-water",
-          title: "Mekelle Water Supply",
+          icon: "bi-cash-coin",
+          title: "Tensae International Business Enterprise",
           text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           number: "05"
         },
@@ -348,7 +349,7 @@ We connect your future—seamlessly and smartly.</p>
           number: "06"
         },
         {
-          icon: "bi-people-fill",
+          icon: "bi-box-arrow-in-down",
           title: "KA2 Import and Export",
           text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           number: "07"
@@ -381,59 +382,17 @@ We connect your future—seamlessly and smartly.</p>
     {/* Section Title */}
     <div className="container section-title">
       <h2>Contact</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Contact Us with the Following Informations</p>
     </div>{/* End Section Title */}
     <div className="container">
       <div className="contact-main-wrapper">
-        <div className="map-wrapper">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" width="100%" height="100%" style={{border: 0}} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
-        </div>
         <div className="contact-content">
-          <div className="contact-cards-container">
-            <div className="contact-card">
-              <div className="icon-box">
-                <i className="bi bi-geo-alt" />
-              </div>
-              <div className="contact-text">
-                <h4>Location</h4>
-                <p>8721 Broadway Avenue, New York, NY 10023</p>
-              </div>
-            </div>
-            <div className="contact-card">
-              <div className="icon-box">
-                <i className="bi bi-envelope" />
-              </div>
-              <div className="contact-text">
-                <h4>Email</h4>
-                <p>info@examplecompany.com</p>
-              </div>
-            </div>
-            <div className="contact-card">
-              <div className="icon-box">
-                <i className="bi bi-telephone" />
-              </div>
-              <div className="contact-text">
-                <h4>Call</h4>
-                <p>+1 (212) 555-7890</p>
-              </div>
-            </div>
-            <div className="contact-card">
-              <div className="icon-box">
-                <i className="bi bi-clock" />
-              </div>
-              <div className="contact-text">
-                <h4>Open Hours</h4>
-                <p>Monday-Friday: 9AM - 6PM</p>
-              </div>
-            </div>
-          </div>
           <div className="contact-form-container">
             <h3>Get in Touch</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua consectetur adipiscing.</p>
             <form action="forms/contact.php" method="post" className="php-email-form">
               <div className="row">
                 <div className="col-md-6 form-group">
-                  <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" required />
+                 <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" required />
                 </div>
                 <div className="col-md-6 form-group mt-3 mt-md-0">
                   <input type="email" className="form-control" name="email" id="email" placeholder="Your Email" required />
@@ -452,13 +411,7 @@ We connect your future—seamlessly and smartly.</p>
               </div>
               <div className="form-submit">
                 <button type="submit">Send Message</button>
-                <div className="social-links">
-                  <a href="#"><i className="bi bi-twitter" /></a>
-                  <a href="#"><i className="bi bi-facebook" /></a>
-                  <a href="#"><i className="bi bi-instagram" /></a>
-                  <a href="#"><i className="bi bi-linkedin" /></a>
                 </div>
-              </div>
             </form>
           </div>
         </div>
