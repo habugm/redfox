@@ -203,7 +203,7 @@ We connect your future—seamlessly and smartly.</p>
         <div className="col-lg-6 col-md-6">
           <div className="service-card">
             <div className="service-icon">
-              <i className="bi bi-palette" />
+              <i className="bi bi-css" />
             </div>
             <div className="service-content">
               <h3><a href="service-details.html">UI/UX Design</a></h3>
@@ -222,7 +222,7 @@ We connect your future—seamlessly and smartly.</p>
         <div className="col-lg-4 col-md-6">
           <div className="service-card compact">
             <div className="service-icon">
-              <i className="bi bi-graph-up-arrow" />
+              <i className="bi bi-chat-text-fill" />
             </div>
             <div className="service-content">
               <h3><a href="service-details.html">Web Development</a></h3>
@@ -254,7 +254,7 @@ We connect your future—seamlessly and smartly.</p>
         <div className="col-lg-4 col-md-6">
           <div className="service-card compact">
             <div className="service-icon">
-              <i className="bi bi-cloud-upload" />
+              <i className="bi bi-people" />
             </div>
             <div className="service-content">
               <h3><a href="service-details.html">ERP Consultancy</a></h3>
