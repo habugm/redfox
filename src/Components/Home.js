@@ -315,49 +315,49 @@ We connect your future—seamlessly and smartly.</p>
         {
           icon: "bi-cookie",
           title: "Addis Ababa Abattoir",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is a major slaughterhouse facility in Addis Ababa, Ethiopia, responsible for processing a significant portion of the city's meat supply",
           number: "01"
         },
         {
           icon: "bi-bricks",
           title: "Yotek Construction PLC",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is One of the leading construction company in Ethiopia providing Various construction services like construction of buildings, roads, special factory Foundations",
           number: "02"
         },
         {
           icon: "bi-tools",
           title: "Mesanu Metals Manufacturing PLC",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: " It is a manufaturing industry which produces and processes metal into various products",
           number: "03"
         },
         {
           icon: "bi-bank",
           title: "Relief Society of Tigray",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is a non-governmental organization (NGO) based in the Tigray region of Ethiopia, founded in 1978.",
           number: "04"
         },
         {
           icon: "bi-cash-coin",
           title: "Tensae International Business Enterprise",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is an Ethiopian private limited company established in 1991 to engage in local international trading representation",
           number: "05"
         },
         {
           icon: "bi-water",
           title: "Adwa Water Supply",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is a company which primarily relies on the Midmar Dam as a raw water source, which also serves the Almeda Textile Factory and, more recently, Axum.",
           number: "06"
         },
         {
           icon: "bi-box-arrow-in-down",
           title: "KA2 Import and Export",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is a company that specializes in sourcing and importing high-quality products from around the globe to meet the diverse needs of our clients.",
           number: "07"
         },
         {
           icon: "bi-mortarboard-fill",
           title: "Poly Institute of Technology",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          text: "It is a polytechnic university or institute of technology, which emphasizes practical, hands-on learning in STEM fields like engineering and technology.",
           number: "08"
         }
       ].map((service, idx) => (

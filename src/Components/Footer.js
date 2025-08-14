@@ -31,11 +31,11 @@ function Footer() {
       <div className="col-lg-2 col-6 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><a href="#">RedFox ERP</a></li>
-          <li><a href="#">ERP Consultancy</a></li>
-          <li><a href="#">IT Infrastructure</a></li>
-          <li><a href="#">Web Development</a></li>
-          <li><a href="#">Mobile App Development</a></li>
+          <li><a href="#services">RedFox ERP</a></li>
+          <li><a href="#services">ERP Consultancy</a></li>
+          <li><a href="#services">IT Infrastructure</a></li>
+          <li><a href="#services">Web Development</a></li>
+          <li><a href="#services">Mobile App Development</a></li>
         </ul>
       </div>
       <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
@@ -43,19 +43,19 @@ function Footer() {
         <p>Lideta Subcity</p>
         <p>Addis Ababa</p>
         <p>Ethiopia</p>
-        <p className="mt-4"><strong>Phone:</strong> <span>+251 914 11 36 59</span></p>
+        <p className="mt-4"><strong>Phone:</strong> <span>+251-914-11-36-59</span></p>
         <p><strong>Email:</strong> <span>redfoxdynamics@gmail.com</span></p>
       </div>
     </div>
   </div>
   <div className="container copyright text-center mt-4">
-    <p>© <span>Copyright</span> <strong className="px-1 sitename">MyWebsite</strong> <span>All Rights Reserved</span></p>
+    <p>© <span>Copyright</span> <strong className="px-1 sitename">REDFOX DYNAMICS</strong> <span>All Rights Reserved</span></p>
     <div className="credits">
       {/* All the links in the footer should remain intact. */}
       {/* You can delete the links only if you've purchased the pro version. */}
       {/* Licensing information: https://bootstrapmade.com/license/ */}
       {/* Purchase the pro version with working PHP/AJAX contact form: [buy-url] */}
-      Designed by <a href="#">Haben Gebremedhin</a>
+      Designed by <a href="#">Haben Gebremedhin @ REDFOX ICT SOLUTIONS PLC</a>
     </div>
   </div>
 </footer>

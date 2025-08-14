@@ -117,45 +117,47 @@ function Header() {
                       <h4>Core Modules</h4>
                       <div className="product-list">
                         <a href="#" className="product-link">
-                          <i className="bi bi-peopler" />
+                          <i className="bi bi-people" />
                           <div>
                             <span>(HRMS) Human Resource Management System</span>
-                            <small>Manage customer relationships effectively</small>
+                            <small>Organization Mgt, Employee Profile, Attendance Organization, <br/>Leave Mgt, Salary Scale Mgt, Separation Request,and others...
+</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-cash-coin" />
                           <div>
                             <span>(IFMS) Integrated Finance Management System</span>
-                            <small>Integrate all business processes</small>
+                            <small>Core Finance, Budget, Payroll, Fixed Asset, Account Receivable, <br/>Petty Cash Payment, Check Payment and other more modules </small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-building-check" />
                           <div>
                             <span>(AIMS) Asset and Inventory Management System</span>
-                            <small>Streamline repetitive tasks</small>
+                            <small>Items Mgt, Store Requisitions, From store, Store Issue,<br/>Inter-store Transfer/Receiving, Goods Receiving, Store Return
+</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-cash-stack" />
                           <div>
                             <span>(PBMS) Plan and Budget Management System</span>
-                            <small>Streamline repetitive tasks</small>
+                            <small>Budget Maintenance, Budget Mgt., Manual Budget Admin.,<br /> Plan & Accomplishment</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-truck" />
                           <div>
                             <span>(PSMS) Purchase and Supplies Management System</span>
-                            <small>Streamline repetitive tasks</small>
+                            <small>Procurement, Inventory Mgt, Warehouse Management, <br/>Demand Planning and Forecasting, and Transportation Mgt.</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
                           <i className="bi bi-graph-up" />
                           <div>
                             <span>(MSMS) Marketing and Sales Management System</span>
-                            <small>Streamline repetitive tasks</small>
+                            <small>Sales Order Processing, Customer Relationship Mgt (CRM), <br />Lead Management, Quotation Mgt, and Sales Forecasting.</small>
                           </div>
                         </a>
                       </div>
@@ -291,14 +293,14 @@ function Header() {
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-camera-video" />
+                          <i className="bi bi-card-checklist" />
                           <div>
                             <span>Planning Strategically</span>
                             <small>Professional video production</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-image" />
+                          <i className="bi bi-key-fill" />
                           <div>
                             <span>Implementing Security Measures</span>
                             <small>Advanced image manipulation</small>
@@ -310,14 +312,14 @@ function Header() {
                       <h4>Cont...</h4>
                       <div className="product-list">
                         <a href="#" className="product-link">
-                          <i className="bi bi-music-note" />
+                          <i className="bi bi-cash-stack" />
                           <div>
                             <span>Managing Costs</span>
                             <small>Professional audio editing</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-play-circle" />
+                          <i className="bi bi-arrow-up-circle-fill" />
                           <div>
                             <span>Ensuring Scalability</span>
                             <small>Create stunning animations</small>
@@ -357,14 +359,14 @@ function Header() {
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-camera-video" />
+                          <i className="bi bi-calendar-check" />
                           <div>
                             <span>System Selection</span>
                             <small>Professional video production</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-image" />
+                          <i className="bi bi-browser-firefox" />
                           <div>
                             <span>Implementation</span>
                             <small>Advanced image manipulation</small>
@@ -376,14 +378,14 @@ function Header() {
                       <h4>Cont...</h4>
                       <div className="product-list">
                         <a href="#" className="product-link">
-                          <i className="bi bi-music-note" />
+                          <i className="bi bi-arrow-up-right-circle-fill" />
                           <div>
                             <span>Customization</span>
                             <small>Professional audio editing</small>
                           </div>
                         </a>
                         <a href="#" className="product-link">
-                          <i className="bi bi-play-circle" />
+                          <i className="bi bi-bookmark-star-fill" />
                           <div>
                             <span>Training</span>
                             <small>Create stunning animations</small>
